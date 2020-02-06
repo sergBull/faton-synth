@@ -17,9 +17,6 @@ button
 	background: Black;
 	color: White;
 	height: 75vh;
-	left: calc(100vw / 28);
-	position: relative;
-	top: 0px;
 	width: calc(100vw / 7);
 }
 
