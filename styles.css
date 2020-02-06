@@ -16,6 +16,11 @@ button
 	width: calc(100vw / 14);
 }
 
+div
+{
+	margin: 25%;
+}
+
 .Black
 {
 	background: Black;
