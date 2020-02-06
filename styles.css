@@ -7,9 +7,10 @@
 
 button
 {
-/* 	border: none; */
+	border: none;
 	display: block;
 	float: left;
+	overflow: hidden;
 	width: calc(100vw / 12);
 }
 
