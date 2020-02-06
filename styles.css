@@ -4,3 +4,14 @@
 	outline: none;
 	padding: 0;
 }
+
+.Black
+{}
+
+.White
+{
+	background: White;
+	color: Black;
+	height: 100vh;
+	width: calc(100vw / 7);
+}
