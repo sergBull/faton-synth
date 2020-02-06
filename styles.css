@@ -7,7 +7,7 @@
 
 button
 {
-	border: none;
+/* 	border: none; */
 	display: block;
 	float: left;
 	width: calc(100vw / 24);
