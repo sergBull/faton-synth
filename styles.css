@@ -10,6 +10,7 @@ button
 	border: none;
 	display: block;
 	float: left;
+	width: calc(100vw / 12);
 }
 
 .Black
@@ -17,7 +18,6 @@ button
 	background: Black;
 	color: White;
 	height: 75vh;
-	width: calc(100vw / 7);
 }
 
 .White
@@ -25,5 +25,4 @@ button
 	background: White;
 	color: Black;
 	height: 100vh;
-	width: calc(100vw / 7);
 }
