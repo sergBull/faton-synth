@@ -8,6 +8,8 @@
 button
 {
 	border: none;
+	display: block;
+	float: left;
 }
 
 .Black
