@@ -10,7 +10,7 @@ button
 /* 	border: none; */
 	display: block;
 	float: left;
-	width: calc(100vw / 16);
+	width: calc(100vw / 14);
 }
 
 .Black
