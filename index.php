@@ -1,6 +1,7 @@
 <?php
 	echo "<link href='styles.css' rel='stylesheet'/>";
 	echo "<meta charset='utf-8'/>";
+	echo "<div>";
 	echo "<button class='White'>C</button>".
 		"<button class='Black'>C#</button>".
 		"<button class='White'>D</button>".
@@ -13,4 +14,5 @@
 		"<button class='White'>A</button>".
 		"<button class='Black'>A#</button>".
 		"<button class='White'>B</button>";
+	echo "</div>";
 ?>
