@@ -13,13 +13,13 @@ button
 	float: left;
 	margin: 0 auto;
 	overflow: hidden;
-	width: calc(100vw / 14);
+	width: calc(100vw / 12);
 }
 
 div
 {
 	margin: 0 25%;
-	width: calc((100vw / 14) * 12);
+	width: calc((100vw / 12) * 12);
 }
 
 .Black
