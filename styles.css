@@ -15,6 +15,13 @@ button
 	width: calc(100vw / 12);
 }
 
+div
+{
+	left: calc(100vw / 12);
+	position: absolute;
+	width: 100vw;
+}
+
 .Black
 {
 	background: Black;
