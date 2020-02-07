@@ -16,11 +16,6 @@ button
 	width: calc(100vw / 12);
 }
 
-div
-{
-	width: calc((100vw / 12) * 12);
-}
-
 .Black
 {
 	background: Black;
