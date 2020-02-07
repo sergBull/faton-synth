@@ -11,15 +11,10 @@ button
 	border: none;
 	display: block;
 	float: left;
-	overflow: hidden;
-	width: calc(100vw / 12);
-}
-
-div
-{
 	left: calc(100vw / 12);
-	position: absolute;
-	width: 100vw;
+	overflow: hidden;
+	position: relative;
+	width: calc(100vw / 12);
 }
 
 .Black
