@@ -1,7 +1,7 @@
 <?php
 	class FormatSection extends Section
 	{
-		const FMT = 'fmt ';
+		const FMT = 'fmt';
 		const SECTION_SIZE = 16;
 		
 		protected $audioFormat;
@@ -45,42 +45,42 @@
 			return $chunk;
 		}
 		
-		public static function getAudioFormat() 
+		public function getAudioFormat() 
 		{
 			return $this->audioFormat;
 		}
 		
-		public static function getBitsPerSample() 
+		public function getBitsPerSample() 
 		{
 			return $this->bitsPerSample;
 		}
 		
-		public static function getBlockAlign() 
+		public function getBlockAlign() 
 		{
 			return $this->blockAlign;
 		}
 		
-		public static function getByteRate() 
+		public function getByteRate() 
 		{
 			return $this->byteRate;
 		}
 		
-		public static function getId() 
+		public function getId() 
 		{
 			return $this->id;
 		}
 		
-		public static function getNumberOfChannels() 
+		public function getNumberOfChannels() 
 		{
 			return $this->numberOfChannels;
 		}
 		
-		public static function getSampleRate() 
+		public function getSampleRate() 
 		{
 			return $this->sampleRate;
 		}
 		
-		public static function getSize() 
+		public function getSize() 
 		{
 			return $this->size;
 		}
