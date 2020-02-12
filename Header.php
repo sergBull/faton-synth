@@ -1,8 +1,8 @@
 <?php
 	class Header
 	{
-		const RIFF = "RIFF";
-		const WAVE = "WAVE";
+		const RIFF = 'RIFF';
+		const WAVE = 'WAVE';
 		
 		protected $format;
 		protected $id;
@@ -17,17 +17,17 @@
 			return $header;
 		}
 		
-		public static function getFormat()
+		public function getFormat()
 		{
 			return $this->format;
 		}
 		
-		public static function getId()
+		public function getId()
 		{
 			return $this->id;
 		}
 		
-		public static function getSize()
+		public function getSize()
 		{
 			return $this->size;
 		}
